@@ -1,11 +1,2 @@
-/Demo04/gen/Java.interp
-/Demo04/gen/Java.tokens
-/Demo04/gen/JavaBaseListener.java
-/Demo04/gen/JavaBaseVisitor.java
-/Demo04/gen/JavaLexer.interp
-/Demo04/gen/JavaLexer.java
-/Demo04/gen/JavaLexer.tokens
-/Demo04/gen/JavaListener.java
-/Demo04/gen/JavaParser.java
-/Demo04/gen/JavaVisitor.java
+/Demo04/gen/
 /.idea/vcs.xml
